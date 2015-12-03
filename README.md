@@ -1,3 +1,3 @@
 # think-guide
 
-Here I would like to gather all critical thinging and my thought process as well as how I see other do the same to reach to certain conclusion.
+Here I would like to gather all critical thingings and my thought process as well as how I see other do the same to reach certain conclusion. All my notes shall be greatly motivated by variety of personal experiences and observations.
