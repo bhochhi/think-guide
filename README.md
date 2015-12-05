@@ -5,4 +5,5 @@ Here I would like to gather all critical thingings and my thought process as wel
 sources:
 - http://betterexplained.com/
 - https://www.quora.com/
+- http://www.thegeekinn.in/nine-algorithms-that-changed-the-future-the-ingenious-ideas-that-drive-todays-computers/
 
