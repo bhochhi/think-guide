@@ -6,12 +6,6 @@ Here I would like to gather all critical thingings and my thought process as wel
 
 
 
-# JNDI
-
-
-
-
-
 
 sources:
 - http://betterexplained.com/
