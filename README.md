@@ -8,6 +8,12 @@ Here I would like to gather all critical thingings and my thought process as wel
 " target="_blank"><img src="http://img.youtube.com/vi/7TXEZ4tP06c/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+#####Don't feel bad for what you can't do, focus on what you can do.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=36m1o-tM05g
+" target="_blank"><img src="http://img.youtube.com/vi/36m1o-tM05g/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 ###[Motivating quotes](https://github.com/bhochhi/think-guide/wiki/Motivating-quotes)
 * I won't quit until I know that I truly tried.
 * Yesterday you said tomorrow.
