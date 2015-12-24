@@ -4,7 +4,7 @@ Here I would like to gather all critical thingings and my thought process as wel
 
 
 
-###[Motivating quotes]()
+###[Motivating quotes](https://github.com/bhochhi/think-guide/wiki/Motivating-quotes)
 * I won't quit until I know that I truly tried.
 * Yesterday you said tomorrow.
 * If you don't build your dream someone will hire you to help build theirs.
