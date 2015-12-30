@@ -33,6 +33,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * Take risks: if you win, you will be happy; if you lose, you will be wise.
 * 
 
+####[98 cents](https://github.com/bhochhi/think-guide/wiki/98-cents)
 
 
 
