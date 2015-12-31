@@ -1,4 +1,10 @@
-Two thousand sixteen is a day way and I have never been prepared as I am today. Things came really late to me. When I said things, its realization of something you think important and taking action over it. There is no meaning of realization if you don't take any actions.  
+Two thousand sixteen is a day way and I have never been prepared as I am today. Things came really late to me. When I said things, its realization of something you think important and taking action over it. There is no meaning of realization if you don't take any actions. In fact, nothing actually matters if you don't act upon it. But now, this is not the case. I feel I have grown today, I know its late but never late to start. I am not perfect but here is my chance to pursuit of perfection.
+
+This time, its different. Its not same as last year, where I think of resolution, continue to work up on for few months, achieved some results and done. This time, its not yearly resolution, its a journey I am going to make, not the destiny. I believe this is the meaning for my life. 
+
+The goal of my life is to be happy, that's it and its that simple. However this goal for me is not my destiny that will be achieved at the end. My goal is ongoing along with my action. I get to enjoy my goal along with my journey. This is a persuit of happiness. This is what I realized and which is this simple but took me big chunck of my adult life. 
+
+Anyway, there is noting to regrate . 
 
 
 
@@ -15,6 +21,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 #####Don't feel bad for what you can't do, focus on what you can do.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=36m1o-tM05g
 " target="_blank"><img src="http://img.youtube.com/vi/36m1o-tM05g/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6P2nPI6CTlc
+" target="_blank"><img src="http://img.youtube.com/vi/6P2nPI6CTlc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
