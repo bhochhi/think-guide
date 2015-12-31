@@ -9,7 +9,7 @@ Anyway, there is noting to regret. All I can do is keep connecting the dots, lea
 * Read everyday
 * Write everyday
 * Take a problem as learning opportunity
-* Sorround yourself with wise people
+* Surround yourself with wise people
 * Take care of your family
 
 The list may grow but I don't want to think much on what are missing, I want to focus on what I know and put that into action. I am really thankful for the family I have, for the friends supporting me and for the mentors believing on me. These are the people so inspire me everyday and I am so lucky they are always around me. 
