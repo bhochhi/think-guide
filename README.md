@@ -1,4 +1,4 @@
-Two thousand sixteen is a day way and I have never been prepared as I am today. Things came really late to me. When I said things, its realization of some of important expect of my life and taking action over it. There is no 
+Two thousand sixteen is a day way and I have never been prepared as I am today. Things came really late to me. When I said things, its realization of something you think important and taking action over it. There is no meaning of realization if you don't take any actions.  
 
 
 
