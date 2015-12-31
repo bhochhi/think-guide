@@ -2,9 +2,19 @@ Two thousand sixteen is a day way and I have never been prepared as I am today. 
 
 This time, its different. Its not same as last year, where I think of resolution, continue to work up on for few months, achieved some results and done. This time, its not yearly resolution, its a journey I am going to make, not the destiny. I believe this is the meaning for my life. 
 
-The goal of my life is to be happy, that's it and its that simple. However this goal for me is not my destiny that will be achieved at the end. My goal is ongoing along with my action. I get to enjoy my goal along with my journey. This is a persuit of happiness. This is what I realized and which is this simple but took me big chunck of my adult life. 
+The goal of my life is to be happy, that's it and its that simple. However this goal is not my destiny that will be achieved at the end. My goal is ongoing along with my action. I achieve my goal along with my journey. This is a persuit of happiness. This is what I realized and which is this simple but took me big chunck of my adult life. 
 
-Anyway, there is noting to regrate . 
+Anyway, there is noting to regret. All I can do is keep connecting the dots, learn from the mistakes and keep move onto right direction. Now the final question is what is the right direction? Good, I think I figured this out too. Followings are actions and state of mind that makes my happy journey.
+
+* Read everyday
+* Write everyday
+* Take a problem as learning opportunity
+* Sorround yourself with wise people
+* Take care of your family
+
+The list may grow but I don't want to think much on what are missing, I want to focus on what I know and put that into action. I am really thankful for the family I have, for the friends supporting me and for the mentors believing on me. These are the people so inspire me everyday and I am so lucky they are always around me. 
+
+Happy new year 2016, everyone!!
 
 
 
