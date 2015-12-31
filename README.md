@@ -1,3 +1,7 @@
+Two thousand sixteen is a day way and I have never been prepared as I am today. Things came really late to me. When I said things, its realization of some of important expect of my life and taking action over it. There is no 
+
+
+
 # think-guide
 
 Here I would like to gather all critical thingings and my thought process as well as how I see other do the same to reach certain conclusion. All my notes shall be greatly motivated by variety of personal experiences and observations.
