@@ -1,23 +1,3 @@
-Two thousand sixteen is a day way and I have never been prepared as I am today. Things came really late to me. When I said things, its realization of something you think important and taking action over it. There is no meaning of realization if you don't take any actions. In fact, nothing actually matters if you don't act upon it. But now, this is not the case. I feel I have grown today, I know its late but never late to start. I am not perfect but here is my chance to pursuit of perfection.
-
-This time, its different. Its not same as last year, where I think of resolution, continue to work up on for few months, achieved some results and done. This time, its not yearly resolution, its a journey I am going to make, not the destiny. I believe this is the meaning for my life. 
-
-The goal of my life is to be happy, that's it and its that simple. However this goal is not my destiny that will be achieved at the end. My goal is ongoing along with my action. I achieve my goal along with my journey. This is a persuit of happiness. This is what I realized and which is this simple but took me big chunck of my adult life. 
-
-Anyway, there is noting to regret. All I can do is keep connecting the dots, learn from the mistakes and keep move onto right direction. Now the final question is what is the right direction? Good, I think I figured this out too. Followings are actions and state of mind that makes my happy journey.
-
-* Read everyday
-* Write everyday
-* Take a problem as learning opportunity
-* Surround yourself with wise people
-* Take care of your family
-
-The list may grow but I don't want to think much on what are missing, I want to focus on what I know and put that into action. I am really thankful for the family I have, for the friends supporting me and for the mentors believing on me. These are the people so inspire me everyday and I am so lucky they are always around me. 
-
-Happy new year 2016, everyone!!
-
-
-
 # think-guide
 
 Here I would like to gather all critical thingings and my thought process as well as how I see other do the same to reach certain conclusion. All my notes shall be greatly motivated by variety of personal experiences and observations.
@@ -56,7 +36,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * If you want something you never had then you must do something you never did.
 * Take risks: if you win, you will be happy; if you lose, you will be wise.
 * 
-
 ####[Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
 
 
