@@ -35,10 +35,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * It doesn't matter how slowly you go, as long as you do not stop.
 * If you want something you never had then you must do something you never did.
 * Take risks: if you win, you will be happy; if you lose, you will be wise.
-* 
+
+
 ####[Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
 
-Never forget to ask your customer, why they think they need a given requirement for their solution? The other way to put this is to ask what is the problem? This is very important question to ask as an architect. For instance, a problem could be just solution needed to be very fast. And customer might give you the requirement as solution needed to be implemented in certain language or platform. If you know the problem you can suggest other viable solutions, which could be more effective, cheaper and better then original requirement. So, Its very important to know the intended value of the requested feature or requirement. Knowing the value, also helps to prioritize the featues. 
  
 
 
