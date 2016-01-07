@@ -39,7 +39,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ####[Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
 
- 
+ * Do let your requirements be vague. Quantity them. If not, at least find the toloerance range. 
 
 
 
