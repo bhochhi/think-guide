@@ -12,15 +12,14 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * #####Don't feel bad for what you can't do, focus on what you can do.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=36m1o-tM05g
 " target="_blank"><img src="http://img.youtube.com/vi/36m1o-tM05g/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=s3QezBvN1BE
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  <a href="http://www.youtube.com/watch?feature=player_embedded&v=s3QezBvN1BE
 " target="_blank"><img src="http://img.youtube.com/vi/s3QezBvN1BE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 * #####[Is that not worth exploring?](http://zenpencils.com/comic/rhodes/)
 
 * #####[So you think you have done enough to succeed?]()
+
 * #####[What makes a good life?](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness?language=en)
 
 
