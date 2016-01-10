@@ -40,7 +40,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ####[Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
 
- * Don't let your requirements be vague. Quantity them. If not, at least find the toloerance range. 
+ * Don't let your requirements be vague. Quantity them. If not, at least find the toloerance range. That way your requirements can be tested and measured effectively.
+ * It's never too early to think about performance. we often wait until the late of implementation to work on performance requirements. But that's the mistake. 
 
 
 
