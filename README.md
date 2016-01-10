@@ -36,6 +36,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * It doesn't matter how slowly you go, as long as you do not stop.
 * If you want something you never had then you must do something you never did.
 * Take risks: if you win, you will be happy; if you lose, you will be wise.
+* Today is the youngest you'll ever be again.
 
 
 ####[Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
