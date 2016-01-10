@@ -41,7 +41,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ####[Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
 
  * Don't let your requirements be vague. Quantity them. If not, at least find the toloerance range. That way your requirements can be tested and measured effectively.
- * It's never too early to think about performance. we often wait until the late of implementation to work on performance requirements. But that's the mistake. 
+ * It's never too early to think about performance. we often wait until the late of project to work on performance requirements. But that's the mistake. We should be tracking the performance at every changes in the project as mush as possible so that we can track down the root cause of performance fall very easily and quickly. I believe this is one of those skill that comes with experiences regarding what to expect and when to expect such cases during the SDLC and how to resolve efficiently.
+ * 
 
 
 
