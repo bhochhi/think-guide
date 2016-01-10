@@ -23,6 +23,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 #####[So you think you have done enough to succeed?]()
 
 
+
 ###[Motivating quotes](https://github.com/bhochhi/think-guide/wiki/Motivating-quotes)
 * I won't quit until I know that I truly tried.
 * Yesterday you said tomorrow.
