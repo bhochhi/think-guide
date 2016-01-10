@@ -17,6 +17,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/s3QezBvN1BE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+#####[Is that not worth exploring?](http://zenpencils.com/comic/rhodes/)
 
 ###[Motivating quotes](https://github.com/bhochhi/think-guide/wiki/Motivating-quotes)
 * I won't quit until I know that I truly tried.
