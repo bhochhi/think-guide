@@ -28,7 +28,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 17. Today is the youngest you'll ever be again.
 18. Eduction is what remains after one has forgotten what one has learned in school. - Albert Einstein
 19. If you can't explain it simply, you don't understand it well enough. - Albert Einstein
-20. 
+20. The faster you react, the less you think.
 
 
 ####[Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
