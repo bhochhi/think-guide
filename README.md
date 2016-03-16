@@ -18,7 +18,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 * #####[Is that not worth exploring?](http://zenpencils.com/comic/rhodes/)
 
-* #####[So you think you have done enough to succeed?]()
+* #####[So you think you have done enough to succeed?](https://github.com/bhochhi/think-guide/wiki/So-you-think-you-have-done-enough-to-succeed%3F)
 
 * #####[What makes a good life?](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness?language=en)
 
