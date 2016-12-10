@@ -15,7 +15,7 @@ If you want to get anything done, there are **two basic ways** to get yourself t
  1. The first, more popular but prone to fail is to try to motivate yourself.
  2. The second, somewhat unpopular way is to cultivate discipline.
  
-**Why motivation doesn't work? Because:
+**Why motivation doesn't work?** Because:
 - Motivation is not continuance.  
 - Motivation is not consistence.
 - Motivation doesn't guaranty completion
@@ -26,7 +26,7 @@ If you want to get anything done, there are **two basic ways** to get yourself t
 - Motivation is a counterproductive attitude to productivity. 
 
 
-**On the other hand, Discipline works because:
+On the other hand, **Discipline works because:**
 - Discipline, doesn't not look for excuses, 
 - Discipline simply does not seek for right time to start, 
 - Discipline doesn't tie with your feelings or mood,
@@ -38,14 +38,14 @@ If you want to get anything done, there are **two basic ways** to get yourself t
 - Discipline makes your goal realistic,
 - Discipline is real!!, 
 - Discipline give result,
-- Discipline just does it.**
+- Discipline just does it.
 
 The problem is we keep **too much focus on the goals**,but what is more important is the journey, the process, the actions plan that generates  the momemtum that finally takes you to your destiny. The problem is starting with wrong question: **“How do I get myself to feel like doing what I have rationally decided to do?”** The proper question is **“How do I make my feelings inconsequential and do the things I consciously want to do without complaining about it?”**. And Now I am convince Discipline is only the answer or the tool/weapon we have for your journey, not motivation. If you are disciplined, you get things done. You don't wait right time to do it. 
 
-Therefore **Stop chasing for Motivation**. why you need motivation, When you are deciplined? If action is conditional on feelings, waiting for the right mood becomes a particularly insidious form of procrastination. I know that too well, and wish somebody pointed it out for me fifteen or ten years ago before I learned the difference the hard way. So let's get discipline and forget about motivation.
+Therefore **Stop chasing for Motivation**. why you need motivation, When you are deciplined? If action is conditional on feelings, waiting for the right mood becomes a particularly insidious form of procrastination. I know that too well, and wish somebody pointed it out for me fifteen or ten years ago before I learned the difference the hard way. So let's get discipline and forget about motivation.r
 
 
-
+Inspired by:  [by Zbyhnev](http://www.wisdomination.com/author/zbyhnev/) 
 
 
 
