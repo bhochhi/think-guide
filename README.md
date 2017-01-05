@@ -40,14 +40,14 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
+### Keep Innovating and forget Global warming
 
-### Global warming is hoax but Alternative engery is real
-
-Since when we needed to scare to do right thing.
-Since when we required to deceive people to do right thing
-Since when we needed to rely on negativity to do positive thing
-Since when we needed to pull  to do positive-thinking
-Since when we needed to make other look dump to find smart solution? Since when?
+Since when we needed to terrorize others to comfort ourselves?
+Since when we required to deceive other to clarify our points?  
+Since when we had to rely on negativity to spread positivie message?
+Since when we needed to make other look fool to proof we are smart?
+Since when?
+This is what I find with the arguments between these two groups. One believe Global warming is hoax and stay calm while other group is sure it's real and will 
 
 Yes I intentionally made up this title. because I am sick and tired for this dog fight between two group. 
 reasoning
