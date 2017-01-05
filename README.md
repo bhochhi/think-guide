@@ -41,6 +41,20 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
+### Global warming is hoax but Alternative engery is real
+
+Since when we needed to scare to do right thing.
+Since when we required to deceive people to do right thing
+Since when we needed to rely on negativity to do positive thing
+Since when we needed to pull  to do positive-thinking
+Since when we needed to make other look dump to find smart solution? Since when?
+
+Yes I intentionally made up this title. because I am sick and tired for this dog fight between two group. 
+reasoning
+
+summary
+
+conclusion
 
 
 
