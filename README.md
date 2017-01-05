@@ -42,15 +42,20 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Keep Innovating and forget Global warming
 
-Since when we needed to terrorize others to comfort ourselves?
-Since when we required to deceive other to clarify our points?  
-Since when we had to rely on negativity to spread positivie message?
-Since when we needed to make other look fool to proof we are smart?
+Since when we needed to terrorize others to comfort ourselves?  
+Since when we required to deceive other to clarify our stands?    
+Since when we had to rely on negativity to spread positivie message?  
+Since when we needed to make other look fool to proof we are smart?  
 Since when?
-This is what I find with the arguments between these two groups. One believe Global warming is hoax and stay calm while other group is sure it's real and will 
+This is exactly what I find with the arguments on global warming. One believes Global warming is hoax while other is so sure as if they knows all consequences if an appropriate actions not taken.
 
-Yes I intentionally made up this title. because I am sick and tired for this dog fight between two group. 
-reasoning
+Human nature is to resist to change. Is this the reason why some think its hoax? Or Could it be solutions that other group proposing is threatening their livelihood? On the other hand those proponent of global warming, do they think they are so smart, they don't need to listen to what other has to say? They are so earler to conclude who caused it and how to fix it.
+
+After reading few articles from NOAA and NASA and also some from opponent groups and some videos. I found there is atleast no disaggrement between the groups that our planet is warming. Since early 20th century the earth's temparature has increased approximately 1.4°F. There is also not much disaggrements that atmospheric levels of greenhouse gasses like CO2 and CH4 have increased. Only the major disaggrement is who caused global warming? pros side argues its a human activities burning fossil fuels, while cons side doesn't believe human activities are any where close to major factors and argue that global warming and climate changes are mainly due to natural processs such as fluctuations of sun's heat and ocean currents. 
+
+
+
+
 
 summary
 
