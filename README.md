@@ -37,31 +37,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  * It's never too early to think about performance. we often wait until the late of project to work on performance requirements. But that's the mistake. We should be tracking the performance at every changes in the project as mush as possible so that we can track down the root cause of performance fall very easily and quickly. I believe this is one of those skill that comes with experiences regarding what to expect and when to expect such cases during the SDLC and how to resolve efficiently.
  * 
 
-
-
-
-### Keep Innovating and forget Global warming
-
-Since when we needed to terrorize others to comfort ourselves?  
-Since when we required to deceive other to clarify our stands?    
-Since when we had to rely on negativity to spread positivie message?  
-Since when we needed to make other look fool to proof we are smart?  
-Since when?
-This is exactly what I find with the arguments on global warming. One believes Global warming is hoax while other is so sure as if they knows all consequences if an appropriate actions not taken.
-
-Human nature is to resist to change. Is this the reason why some think its hoax? Or Could it be solutions that other group proposing is threatening their livelihood? On the other hand those proponent of global warming, do they think they are so smart, they don't need to listen to what other has to say? They are so earler to conclude who caused it and how to fix it.
-
-After reading few articles from NOAA and NASA and also some from opponent groups and some videos. I found there is atleast no disaggrement between the groups that our planet is warming. Since early 20th century the earth's temparature has increased approximately 1.4°F. There is also not much disaggrements that atmospheric levels of greenhouse gasses like CO2 and CH4 have increased. Only the major disaggrement is who caused global warming? pros side argues its a human activities burning fossil fuels, while cons side doesn't believe human activities are any where close to major factors and argue that global warming and climate changes are mainly due to natural processs such as fluctuations of sun's heat and ocean currents. They say the whole climate change/global warming thery is based upon questionable measurements and faulty climate model. There are so many research and conclusion that have been made public for and against what are primary factors that is causing climate change. And this is making general public more confused.
-
-But what I would like to argue is we should not be spending so much time and money trying to find the culpits. Rather we should be focusing on Innovation that improves human civilization. We should be futuristic and at the same ....
-
-
-
-
-
-summary
-
-conclusion
+### Tips for presenting to senior managments, some tips:
+-  
 
 
 
