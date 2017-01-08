@@ -37,8 +37,18 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  * It's never too early to think about performance. we often wait until the late of project to work on performance requirements. But that's the mistake. We should be tracking the performance at every changes in the project as mush as possible so that we can track down the root cause of performance fall very easily and quickly. I believe this is one of those skill that comes with experiences regarding what to expect and when to expect such cases during the SDLC and how to resolve efficiently.
  * 
 
-### Tips for presenting to senior managments, some tips:
--  
+### Tips for presenting to senior managment:
+- Know time is limited.
+- Information should be precise and condensed form.
+- Why are you giving this presentation at this time. Get inside information what senior management looking and what you solution you can provide. Show the **Return on Investment (ROI)** and, if possible, a **cost-benefit analysis**. Remember that a presentation must be focused on solving the needs of these senior executives and the organization.
+- Conclusion first, then introduction then supporting points
+- Be a "minimalist" with PowerPoint
+
+Souces:
+* [A Project Management Article by Lawrence L. Tracy](https://www.pmiwdc.org/article/lawrence-l-tracy/10-tips-help-project-managers-shine-when-they-present-senior-executives)
+
+
+
 
 
 
