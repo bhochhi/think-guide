@@ -21,3 +21,40 @@ SRP: Single Responsibility Principles
 
 ~ Donald Knuth
 
+“The ratio of time spent reading (code) versus writing is well over 10 to 1 ... (therefore) making it easy to read makes it easier to write.”
+
+LeBlanc's Law
+---
+“Later equals never.”
+
+"Master programmers think of systems as stories to be told rather than programs to be written."
+
+"In order to make sure our functions are doing 'one thing', we need to make sure that the statements within the function are all at the same level of abstraction."
+
+
+Functions
+---
+"The first rule of functions is that they should be small."
+"Functions should do something, or answer something, but not both."
+"Methods should have verb or phrase names."
+"One way to know that a function is doing more than 'one thing' is if you can extract another function from it with a name that is not merely a restatement of its implementation."
+
+Comments
+---
+"Every time you write a comment, you should grimace and feel the failure of your ability of expression."
+
+
+SOLID
+---
+The Single Responsibility Principle
+ ""
+The Open Closed Principle
+The Liskov Substitution Principle
+The Interface segregation principle
+The Dependency Inversion principle
+
+
+
+
+
+
