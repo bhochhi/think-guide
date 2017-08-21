@@ -47,11 +47,19 @@ Comments
 SOLID
 ---
 The Single Responsibility Principle
- ""
+ "One class should do one thing and do it well"
 The Open Closed Principle
+ "Open for extension, closed for modification"
 The Liskov Substitution Principle
-The Interface segregation principle
+ "Sub type must be substitutable for super type"
+The Interface Segregation Principle
+ "Avoid monolithic interface, reduce pain on client side"
 The Dependency Inversion principle
+ "Don't ask, let framework give to you"
+
+Delegation principle
+---
+Don't do all things by yourself, delegate it! 
 
 
 
