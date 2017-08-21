@@ -61,6 +61,11 @@ Delegation principle
 ---
 Don't do all things by yourself, delegate it! 
 
+Simple things should be simple and complex things should be possible.
+—Alan Kay
+
+Premature optimization is the root of all evil in programming.
+—C.A.R. Hoare
 
 
 
