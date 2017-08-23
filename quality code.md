@@ -19,7 +19,7 @@ SRP: Single Responsibility Principles
  \- Robert C. Martin
 
 "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"  
-\- Rick Osborne
+\- Rick Osborne \-Martin Golding
 
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."   
 \- Martin Fowler 
@@ -93,8 +93,14 @@ Law of Demeter
 A component or object should not know about internal details of other components or objects.
 
 
+“We see a lot of feature-driven product design in which the cost of features is not properly accounted. Features can have a negative value to customers because they make the products more difficult to understand and use. We are finding that people like products that just work. It turns out that designs that just work are much harder to produce that designs that assemble long lists of features.” 
+\― Douglas Crockford, JavaScript: The Good Parts
 
+"Programming is like sex. One mistake and you have to support it for the rest of your life.”
+\– Michael Sinz
 
+"I'm not a great programmer, I'm a good programmer with great habits"
+\- Kent Beck
 
 
 http://conal.net/quotes.htm  
