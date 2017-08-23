@@ -6,6 +6,13 @@ DRY: Don't Repeat Yourself 
 ---
 "To avoid code duplication"
 
+KISS: Keep it Simple Stupid
+---
+
+YAGNI:"You Ain't Gonna Need it!!
+---
+Don't write code that you think you might need in future, but don't need yet.
+
 SRP: Single Responsibility Principles
 ---
 "Functions should do one thing. They should do it well. They should do it only."  
@@ -66,6 +73,35 @@ Simple things should be simple and complex things should be possible.
 
 Premature optimization is the root of all evil in programming.
 —C.A.R. Hoare
+
+First, solve the problem. Then, write the code. 
+
+Talk is cheap, show me the code!  
+  \-Linus Torvalds
+If I had more time, I would have written a shorter letter.
+\-Cicero
+Simplicity is prerequisite for reliability.
+\-Edsger W. Dijkstra
+The proper use of comments is to compensate for our failure to express ourself in code.
+\-Robert C. Martin
+Code never lies, comments sometimes do.
+\-Ron Jeffries
+
+
+Law of Demeter
+---
+A component or object should not know about internal details of other components or objects.
+
+
+
+
+
+
+http://conal.net/quotes.htm  
+https://fortrabbit.github.io/quotes/  
+
+
+
 
 
 
