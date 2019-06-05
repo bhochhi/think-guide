@@ -1,4 +1,4 @@
-# think-guide
+# Think-Guide
 
 Here I would like to gather all critical thingings and my thought process as well as how I see other do the same to reach certain conclusion. All my notes shall be greatly motivated by variety of personal experiences and observations.
 
@@ -26,12 +26,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-###[Motivating quotes](https://github.com/bhochhi/think-guide/wiki/Motivating-quotes)
-17. Today is the youngest you'll ever be again.
-18. Eduction is what remains after one has forgotten what one has learned in school. - Albert Einstein
-19. If you can't explain it simply, you don't understand it well enough. - Albert Einstein
-20. The faster you react, the less you think.
-
+###[Motivating quotes](https://github.com/bhochhi/think-guide/wiki/Motivating-quotes) . 
+17. Today is the youngest you'll ever be again.  
+18. Education is what remains after one has forgotten what one has learned in school. - Albert Einstein . 
+19. If you can't explain it simply, you don't understand it well enough. - Albert Einstein . 
+20. The faster you react, the less you think.  
+  
 
 ####[Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
 
