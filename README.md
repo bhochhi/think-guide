@@ -2,7 +2,7 @@
 
 Here I would like to gather all critical thingings and my thought process as well as how I see other do the same to reach certain conclusion. All my notes shall be greatly motivated by variety of personal experiences and observations.
 
-###Inspirational
+### Inspirational
 
 Belief I can do this: 
 ---
@@ -18,25 +18,27 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  <a href="
 " target="_blank"><img src="http://img.youtube.com/vi/s3QezBvN1BE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-###[Is that not worth exploring?](http://zenpencils.com/comic/rhodes/)
+### [Is that not worth exploring?](http://zenpencils.com/comic/rhodes/)
 
-#####[So you think you have done enough to succeed?](https://github.com/bhochhi/think-guide/wiki/So-you-think-you-have-done-enough-to-succeed%3F)
+##### [So you think you have done enough to succeed?](https://github.com/bhochhi/think-guide/wiki/So-you-think-you-have-done-enough-to-succeed%3F)
 
-#####[What makes a good life?](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness?language=en)
+##### [What makes a good life?](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness?language=en)
 
 
 
-###[Motivating quotes](https://github.com/bhochhi/think-guide/wiki/Motivating-quotes) . 
+### [Motivating quotes](https://github.com/bhochhi/think-guide/wiki/Motivating-quotes) . 
 17. Today is the youngest you'll ever be again.  
 18. Education is what remains after one has forgotten what one has learned in school. - Albert Einstein . 
 19. If you can't explain it simply, you don't understand it well enough. - Albert Einstein . 
 20. The faster you react, the less you think.  
   
 
-####[Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
+#### [Thinking like an architect!!](https://github.com/bhochhi/think-guide/wiki/Thinking-like-an-architect)
 
  *  Don't let your requirements be vague. Quantity them. If not, at least find the toloerance range. That way your requirements can be tested and measured effectively.
  * It's never too early to think about performance. we often wait until the late of project to work on performance requirements. But that's the mistake. We should be tracking the performance at every changes in the project as mush as possible so that we can track down the root cause of performance fall very easily and quickly. I believe this is one of those skill that comes with experiences regarding what to expect and when to expect such cases during the SDLC and how to resolve efficiently.
+ 
+#### Notes from [Software Architecture: Foundations, Theory, and Practice](https://learning.oreilly.com/library/view/software-architecture-foundations/9780470167748/)
  
  
 sources:
