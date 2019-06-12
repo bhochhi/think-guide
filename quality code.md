@@ -103,6 +103,12 @@ A component or object should not know about internal details of other components
 \- Kent Beck
 
 
+Security
+---
+- All security is based on trust. But trust has no effective measure,
+only confidence that grows with careful diligence. -securing-microservice-apis-sustainable-and-scalable-access-control . 
+- 
+
 http://conal.net/quotes.htm  
 https://fortrabbit.github.io/quotes/  
 
